@@ -1,2 +1,2 @@
 # hello-world
-a tutorial project by gH to explore flow
+I'm a theroist trying to learn the practical 
